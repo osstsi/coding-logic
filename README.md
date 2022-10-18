@@ -1,2 +1,3 @@
 # coding-logic
-A full coding logic course for free!
+
+<h6>This course keeps under developement...</h6>
